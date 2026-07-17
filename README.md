@@ -46,7 +46,7 @@ plant-disease-classifier/
 1. Clone the repo and install dependencies:
 
    ```bash
-   git clone https://github.com/<your-username>/plant-disease-classifier.git
+   git clone https://github.com/<Kundat>/plant-disease-classifier.git
    cd plant-disease-classifier
    python -m venv venv
    venv\Scripts\activate
